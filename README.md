@@ -2,4 +2,4 @@
 
 Erzeugen einer HTML-Struktur mit JavaScript
 
-Stack
+Arrays als Stack
